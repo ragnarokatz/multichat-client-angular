@@ -1,5 +1,5 @@
 {
-  "name": "g1-exam-webapp",
+  "name": "multichat-client-angular",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",

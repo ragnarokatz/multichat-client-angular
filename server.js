@@ -4,7 +4,7 @@ const path = require('path');
 
 const app = express();
 
-const appName = 'g1-exam-webapp';
+const appName = 'multichat-client-angular';
 
 // Serve only the static files form the dist directory
 app.use(express.static(__dirname + `/dist/${appName}`));

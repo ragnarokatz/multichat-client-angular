@@ -2,7 +2,7 @@
 
 ### Application links
 
-- web-app: https://g1-exam-webapp.herokuapp.com/
+- web-app: https://multichat-client-angular.herokuapp.com/
 - web-api: https://g1-exam-webapi.herokuapp.com/
 
 ### Installation
