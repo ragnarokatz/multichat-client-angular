@@ -9,8 +9,8 @@ import { RoomListComponent } from "./room-list/room-list.component";
 import { NotFoundComponent } from "./not-found/not-found.component";
 
 const routes: Routes = [
-  { path: "rooms/:id", component: ChatroomComponent },
   { path: "rooms/create", component: CreateRoomComponent },
+  { path: "rooms/:id", component: ChatroomComponent },
   { path: "login", component: LoginComponent },
   { path: "register", component: RegisterComponent },
   { path: "rooms", component: RoomListComponent },
