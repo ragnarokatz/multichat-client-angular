@@ -18,13 +18,10 @@ import { ChatroomComponent } from './chatroom/chatroom.component';
     NotFoundComponent,
     RoomListComponent,
     CreateRoomComponent,
-    ChatroomComponent
+    ChatroomComponent,
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule
-  ],
+  imports: [BrowserModule, AppRoutingModule],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
