@@ -9,6 +9,7 @@ import { NotFoundComponent } from './not-found/not-found.component';
 import { RoomListComponent } from './room-list/room-list.component';
 import { CreateRoomComponent } from './create-room/create-room.component';
 import { ChatroomComponent } from './chatroom/chatroom.component';
+import { EnterRoomComponent } from './enter-room/enter-room.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { ChatroomComponent } from './chatroom/chatroom.component';
     RoomListComponent,
     CreateRoomComponent,
     ChatroomComponent,
+    EnterRoomComponent,
   ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
